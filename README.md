@@ -1,89 +1,92 @@
-<h1 align="center">Hi 👋, I'm Leiner Suarez</h1>
-<h3 align="center">💻 Passionate Junior Developer | 🎮 Gamer | 📚 Always Learning</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Backend+Learner;React+Enthusiast;Python+%26+C%2B%2B+Programmer;Always+Studying+New+Things+📚" />
-</p>
-
----
-
 # 🚀 About Me
 
-- 🔭 Currently learning **Full Stack Development**
-- 🌱 Improving my skills in **React, Python, C++ and Backend**
-- 💡 I love studying and learning new technologies every day
-- 🎮 Gamer and content creator
-- ⚡ Goal: Become an advanced software engineer
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+🎓 Software Analysis and Development Technologist
+
+📚 Systems Engineering Student — 9th Semester
+
+💻 Passionate about:
+- Full Stack Development
+- Frontend & Backend
+- React Ecosystem
+- Software Architecture
+- AI & Automation
+
+🛠️ Currently working as:
+- Computer Repair & Maintenance Technician
+- Commercial Advisor
+- Freelance Tech Support
+
+🌱 I’m currently looking for opportunities as:
+- Junior Developer
+- Software Intern
+- Backend or Frontend Trainee
+
+⚡ My goal is to gain real-world experience, improve every day, and become a high-level software engineer.
+
+📖 I love studying technology, learning new things, and constantly improving my skills.
 
 ---
 
-# 🌐 Connect With Me
+# 🧠 Current Learning Journey
 
 <p align="center">
-  <a href="https://github.com/TUUSUARIO">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://discord.com">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-  <a href="https://instagram.com">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+
+<img src="https://img.shields.io/badge/HTML-90%25-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS-85%25-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/React-70%25-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Python-75%25-green?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/C++-65%25-00599C?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/Backend-60%25-red?style=for-the-badge&logo=node.js"/>
+
 </p>
 
 ---
 
-# 🛠️ Languages and Tools
+# 🏆 Achievements
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,c,cpp,java,firebase,mysql,git,github,vscode,figma,docker&theme=dark&perline=6" 
-    />
-  </a>
-</p>
+🏅 Software Analysis and Development Technologist
 
----
+🏅 Systems Engineering Student (9th Semester)
 
-# 📊 GitHub Stats
+🏅 Experience in Technical Support & Computer Maintenance
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+🏅 Experience in Customer Service & Commercial Sales
+
+🏅 Building Full Stack Projects with Modern Technologies
+
+🏅 Constantly learning and improving programming skills
 
 ---
 
-# 🔥 GitHub Streak
+# 🎯 Career Objective
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TUUSUARIO&theme=tokyonight&hide_border=true"/>
-</p>
+```yaml
+name: Leiner Suarez
+located_in: Colombia
+current_focus:
+  [
+    "Frontend Development",
+    "Backend Development",
+    "React",
+    "Python",
+    "Full Stack Projects"
+  ]
 
----
+looking_for:
+  [
+    "Internships",
+    "Junior Developer Roles",
+    "Remote Opportunities",
+    "Real-world Experience"
+  ]
 
-# 🧠 Currently Studying
-
-```txt
-███████████████████░░░░░  HTML/CSS
-█████████████████░░░░░░  JavaScript
-██████████████░░░░░░░░░  React
-████████████░░░░░░░░░░░  Python
-██████████░░░░░░░░░░░░░  C++
-█████████░░░░░░░░░░░░░░  Backend
+life_philosophy:
+  [
+    "Learn every day",
+    "Build useful things",
+    "Never stop improving"
+  ]
 ```
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TUUSUARIO/TUUSUARIO/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-<p align="center">
-  ⭐ Thanks for visiting my profile ⭐
-</p>
